@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#e11d48" rx="32" ry="32"/>
+  <!-- Decorative element at the top -->
+  <path d="M256 80 C280 90, 300 110, 310 100 C320 90, 310 80, 300 85 C290 90, 270 95, 256 80 C242 95, 222 90, 212 85 C202 80, 192 90, 202 100 C212 110, 232 90, 256 80Z" fill="#D4AF37" />
+  
+  <!-- Horizontal line -->
+  <line x1="128" y1="150" x2="384" y2="150" stroke="#D4AF37" stroke-width="6" />
+  
+  <!-- BALKAN text -->
+  <text x="128" y="300" font-family="serif" font-size="80" font-weight="bold" fill="#D4AF37">BALKAN</text>
+</svg>
